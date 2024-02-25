@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab10Lib.IdNumber">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEgEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10Lib.Emoji">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACACAAAACgAAQAgAAAAAQAAAAEAAAAAAACABAAAhA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab10Lib.FaceEmoji">
+    <Position X="15.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAAgAAAAAAAIAAEACBAAAACQAAAABA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10Lib.SmileEmoji">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAgCAAAIAgAAAAAAAAAAEAAAAAAACAAAAABA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10Lib.AnimalEmoji">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAAgAAAAAAAAAAkAAAAIAACAAAAABA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10Lib.Pokemon" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAgAAABACAAAYAiACABoACAIAEEAKCAgASAgAAAAI=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab10Lib.SortByTag" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Emoji.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Input.CustomInput">
+    <Position X="16.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
